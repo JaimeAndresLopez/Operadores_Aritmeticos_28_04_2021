@@ -11,7 +11,7 @@
 //Resta
 //Significado
     $resultado = (int) $numero1 - $numero2;
-    echo $resultado;//
+    //echo $resultado;//
 // Abrebiado
     $numero1 -= $numero2;
     echo $numero1;
